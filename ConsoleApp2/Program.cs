@@ -5,6 +5,15 @@
         static void Main(string[] args)
         {
             Console.WriteLine("wwwww");
+            Console.WriteLine("wwwww");
+            Console.WriteLine("wwwww");
+            Console.WriteLine("wwwww");
+            Console.WriteLine("wwwww");
+            Console.WriteLine("wwwww");
+            Console.WriteLine("wwwww");
+            Console.WriteLine("wwwww");
+            Console.WriteLine("wwwww");
+            Console.WriteLine("wwwww");
         }
     }
 }
